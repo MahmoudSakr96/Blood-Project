@@ -1,0 +1,164 @@
+body{
+    
+    font-family: 'Poiret One', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+.footer
+{
+    background-color: #181818 ;
+    
+}
+.zx
+{
+    font-weight: 900;
+    color: red;
+    font-size: 70px;
+}
+.zc
+{
+    width: 50%;
+    margin: auto;
+    color: #fff;
+    font-size: 40px;
+    
+}
+.zf
+{
+    width: 27%;
+    margin: auto;
+    color:dodgerblue;
+    
+}
+
+.zc p
+{
+    font-size: 19px;
+}
+.how
+{
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.zozo img
+{
+    padding-right: 25px;
+    padding-left: 10px;
+}
+.kaka
+{
+    background-color: rgba(0,0,0,.7);
+    margin: auto;
+    
+    width: 100%;
+}
+.logo{
+    width:50px;
+    height: 50px;
+    background-image: url(../img/21d47ad991ee2d28d2307a43599d28d2.jpg);
+    background-size: 100% 100%;
+    
+}
+
+
+ .blood
+{
+height: 626px;
+    
+
+background-image: url(../img/download.jpg);
+    background-size: 100%100%;
+}
+.caption{
+    color: gainsboro;
+    font-family: 'Poiret One', cursive;
+    width: 75%;
+    margin: auto;
+    padding: 160px 70px;
+}
+.caption p{
+    padding-top: 40px;
+font-weight: 600;
+    font-size: 22px;
+    
+}
+.caption h1{
+    padding-top: 50px;
+    font-weight: 600;
+}
+
+.account{
+    font-weight: 600;
+    
+}
+.disc h2{
+    color: blue;
+}
+.disc p{
+    color:#f3a603;
+}
+
+.team  {
+    background-color: white;
+   
+}
+.team p {
+    
+    color: grey;
+}
+.team h6 {
+   
+    color: gainsboro;
+}
+.teamdisc{
+    color: gray;
+}
+.header_color{
+    color: dodgerblue;
+    
+}
+.nnn{
+    padding-top: 100px;
+}
+.login{
+    
+    height: 600px;
+    background-color: #055072;
+        color: #cfeffc;
+    padding-top: 150px;
+   
+    
+}
+.bobo
+{
+     width: 40%;
+    margin: auto;
+}
+.marbtn
+{
+    margin-top: 70px;
+}
+.fego
+{
+    
+    width: 300px;
+    height: 300px;
+}
+.fego img
+{
+    background-size: 100% 100%;
+}
+.hod
+{
+    color: gold;
+}
+.kolo
+{
+    background-color: #F2F2F2;
+}
+.verna
+{
+    width: 348px;
+    height: 300px;
+    text-align: center;
+}
